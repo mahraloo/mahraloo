@@ -1,7 +1,5 @@
 - 👋 Hi, I’m @mahraloo
 - 👀 I’m interested in Java/Kotlin And Android
-- 🌱 I’m currently learning Flutter
-- 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me [Contact Us](aminluragi.m.a.l@gmail.com)
 
 <!---
